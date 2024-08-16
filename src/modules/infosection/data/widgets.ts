@@ -1,6 +1,6 @@
 import Facebook from "../../../../public/images/logos/facebook-white.png";
 import X from "../../../../public/images/logos/x.png";
-import LinkedIn from "../../../../public/images/logos/linkedIn.png";
+import LinkedIn from "../../../../public/images/logos/linkedin.png";
 import Instagram from "../../../../public/images/logos/instagram.png";
 
 export const widgets = [
