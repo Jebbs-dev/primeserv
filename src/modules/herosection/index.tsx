@@ -12,8 +12,8 @@ export const HeroSection: FunctionComponent<HeroSectionProps> = () => {
           <Image
             src={"/images/serv.png"}
             alt="logo"
-            width={100}
-            height={100}
+            width={20}
+            height={20}
             className="ml-10 md:ml-24 w-32 md:w-56"
           />
         </div>
