@@ -1,6 +1,5 @@
 import { FunctionComponent } from "react";
 import { CalendlyButton } from "../../components/calendly-button";
-import Image from "next/image";
 
 interface HeroSectionProps {}
 
@@ -9,11 +8,9 @@ export const HeroSection: FunctionComponent<HeroSectionProps> = () => {
     <div>
       <div className="w-full h-[100vh] md:h-[900px] lg:h-[850px] bg-[url('/images/second-bg.jpg')] bg-cover bg-black bg-opacity-50">
         <div className="py-10 md:py-24">
-          <Image
-            src={"/images/serv.png"}
+          <img
+            src="/images/serv.png"
             alt="logo"
-            width={20}
-            height={20}
             className="ml-10 md:ml-24 w-32 md:w-56"
           />
         </div>
