@@ -9,7 +9,7 @@ export const HeroSection: FunctionComponent<HeroSectionProps> = () => {
       <div className="w-full h-[100vh] md:h-[900px] lg:h-[850px] bg-[url('/images/second-bg.jpg')] bg-cover bg-black bg-opacity-50">
         <div className="py-10 md:py-24">
           <img
-            src="/images/serv.png"
+            src="/servs.jpg"
             alt="logo"
             className="ml-10 md:ml-24 w-32 md:w-56"
           />
