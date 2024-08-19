@@ -12,7 +12,7 @@ export const MoreInfo = () => {
               01
             </span>
             <div className="absolute z-50 left-[30%] top-[40%] w-48 xl:w-56">
-              <h4 className="font-semibold mb-2">We Listen</h4>
+              <h4 className="font-semibold text-xl mb-2">We Listen</h4>
               <p>
                 Tell us about your business and your goals. Wer are here to help
                 you succeed.
@@ -24,7 +24,7 @@ export const MoreInfo = () => {
               02
             </span>
             <div className="absolute z-50 left-[30%] top-[40%] w-48 xl:w-56">
-              <h4 className="font-semibold mb-2">We Create</h4>
+              <h4 className="font-semibold text-xl mb-2">We Create</h4>
               <p>
                 Our team will craft the perfect plan to get your business in
                 front of the right people.
@@ -36,7 +36,7 @@ export const MoreInfo = () => {
               03
             </span>
             <div className="absolute z-50 left-[30%] top-[40%] w-48 xl:w-56">
-              <h4 className="font-semibold mb-2">You Grow</h4>
+              <h4 className="font-semibold text-xl mb-2">You Grow</h4>
               <p>
                 Watch as new customers discover your business and your revenue
                 soars. We&apos;ll handle the rest.
