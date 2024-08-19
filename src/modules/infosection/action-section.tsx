@@ -25,7 +25,7 @@ export const ActionSection = () => {
     };
 
     try {
-      const response = await axios.post("/api/register", form);
+      const response = await axios.post(`${process.env.BASE_URL}/api/register`, form);
       console.log(response.data);
       toast.success("Subscribed Successfully");
     } catch (error) {
