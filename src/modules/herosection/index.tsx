@@ -17,7 +17,7 @@ export const HeroSection: FunctionComponent<HeroSectionProps> = () => {
         <div className="mx-auto lg:ml-56 w-[350px] md:w-[70%] lg:w-full max-w-3xl lg:pb-56">
           <div className="">
             <h1 className="text-3xl font-bold text-black md:text-6xl">
-              We Help Cosmetic Dentist Clinics Achieve Outstanding ROI Through
+              We Help Service-Based Businesses and Companies Achieve Outstanding ROI Through
               Paid Advertising
             </h1>
             <p className="mt-6 text-sm md:text-xl leading-8 text-black/60">
